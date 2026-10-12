@@ -1,0 +1,16 @@
+# secrets
+.env
+# environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+# personal data - never commit real exports or real hand-ranked results
+data/*
+!data/sample_connections.csv
+evals/*.csv
+evals/*.bak
+!evals/sample_hand_rank.csv
+# local tooling / notes
+.claude/
+CLAUDE.md

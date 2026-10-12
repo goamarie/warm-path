@@ -1,0 +1,16 @@
+first_name,last_name,position,agent1_score,human_score,notes,agent1_score_after
+Sample,Person-01,Chief Executive Officer,5,3,synthetic placeholder score,5
+Sample,Person-02,Chief of Staff,5,2,synthetic placeholder score,5
+Sample,Person-03,"Executive Vice President, Sales",4,4,synthetic placeholder score,4
+Sample,Person-17,"Founder, Northwind Labs",4,1,synthetic placeholder score,4
+Sample,Person-04,"Senior Vice President, Product",3.5,1,synthetic placeholder score,3.5
+Sample,Person-07,Head of Partnerships,3,5,synthetic placeholder score,3
+Sample,Person-05,"Group Vice President, Marketing",3,1,synthetic placeholder score,3
+Sample,Person-06,"Vice President, Engineering",3,3,synthetic placeholder score,3
+Sample,Person-08,"Senior Director, Customer Success",2.5,5,synthetic placeholder score,2.5
+Sample,Person-09,"Director, Product Marketing",2,1,synthetic placeholder score,2
+Sample,Person-10,Director of Operations,2,5,synthetic placeholder score,2
+Sample,Person-13,Service Delivery Manager,1,2,synthetic placeholder score,1
+Sample,Person-18,Customer Success Manager,1,1,synthetic placeholder score,1
+Sample,Person-20,Recruiter,0,1,synthetic placeholder score,0
+Sample,Person-19,Software Engineer,0,4,synthetic placeholder score,0
